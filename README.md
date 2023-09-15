@@ -2,7 +2,7 @@
    <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 <p align="center">
 
-# Vanx Wallet
+# Cold Wallet
 
 Vanilla Wallet is a cold wallet for CoinEx Chain, running on windows. It is an one-file executable and you can copy and use it without installation.
 
