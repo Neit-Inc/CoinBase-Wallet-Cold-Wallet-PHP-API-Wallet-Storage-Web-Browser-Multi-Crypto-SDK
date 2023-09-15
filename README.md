@@ -5,6 +5,7 @@
 # Cold Wallet
 
 
+
 Vanilla Wallet is a cold wallet for CoinEx Chain, running on windows. It is an one-file executable and you can copy and use it without installation.
 
 Although it's OK to use this cold wallet on the Windows operating system for your everyday work, we suggest you to use it only on Windows PE which is installed on a USB stick, instead of the hard disk.
